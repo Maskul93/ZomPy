@@ -19,7 +19,7 @@ The final software, now still at its beta stage, would be capable of:
 
 ...and, why not: to test my abilities, not only at coding something different from a script, but at organizing the knowledge I acquired during these years.
 
-##Features
+## Features
 - [x] Core functions
 - [x] CMJ class
 - [ ] SJ class
