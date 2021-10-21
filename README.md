@@ -22,16 +22,16 @@ The final software, now still at its beta stage, would be capable of:
 ##Features
 - [x] Core functions
 - [x] CMJ class
-- [] SJ class
+- [ ] SJ class
 - [x] Basic GUI
-- [] Interactive Plot
-- [] Generate Jump Report
-- [] Context Menus
+- [ ] Interactive Plot
+- [ ] Generate Jump Report
+- [ ] Context Menus
 
 ## Issues
 Nothing for now, but they will *jump* up somehow. :-)
 
-# Contact
+# Contacts
 Contact me at <a href="mailto:mascia.guido@gmail.com">mascia.guido@gmail.com</a>. Any suggestion is kindly accepted. 
 
 
